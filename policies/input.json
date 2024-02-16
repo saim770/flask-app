@@ -1,0 +1,9 @@
+{
+    "method": "GET",
+    "path": "/api/data",
+    "ip": "127.0.0.1",
+    "headers": {
+        "X-Frame-Options": "SAMEORIGIN",
+        "Content-Security-Policy": "default-src 'self'"
+    }
+}
